@@ -1,9 +1,11 @@
+<!-- Header Banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./resources/banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./resources/banner-light.png">
   <img src="./resources/banner-dark.png">
 </picture>
 
+<!-- Divider -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./resources/divider-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./resources/divider-light.svg">
@@ -12,8 +14,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./resources/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./resources/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="./resources/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./resources/github-contribution-grid-snake-light.svg">
+  <img alt="github contribution grid snake animation" src="./resources/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <!--
